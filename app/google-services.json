@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "808862163600",
+    "firebase_url": "https://weddy-1261.firebaseio.com",
+    "project_id": "weddy-1261",
+    "storage_bucket": "weddy-1261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808862163600:android:3cdf9691760ea401",
+        "android_client_info": {
+          "package_name": "com.ralonsorodr3.weddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808862163600-fqenpm2q5u7mh1hc1t4hip42k5ru1nno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ralonsorodr3.weddy",
+            "certificate_hash": "37BCA9AE10DD50DC0FAFD17892D83D84E78AD9AB"
+          }
+        },
+        {
+          "client_id": "808862163600-ta8ajhu8to800r3enjv9m0p3k9agrfak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH_YkfMRhccQ36w9FKqZs1exi9-1vsUNw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808862163600-ta8ajhu8to800r3enjv9m0p3k9agrfak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
